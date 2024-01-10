@@ -1,4 +1,4 @@
-FROM ghcr.io/evansmuscle/drone-ssh:1.7.3
+FROM ghcr.io/evansmuscle/drone-ssh:latest
 
 COPY entrypoint.sh /bin/entrypoint.sh
 
